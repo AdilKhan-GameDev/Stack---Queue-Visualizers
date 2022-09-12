@@ -1,0 +1,20 @@
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.Form1.resources
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\aadik\Desktop\Visualization\Stack\Stack\obj\Debug\Stack.pdb
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\bin\Debug\Stack.exe.config
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\bin\Debug\Stack.exe
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\bin\Debug\Stack.pdb
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.Form1.resources
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.Properties.Resources.resources
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.exe
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Stack\Stack\obj\Debug\Stack.pdb

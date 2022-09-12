@@ -1,0 +1,20 @@
+C:\Users\aadik\Desktop\Visualization\Queue\bin\Debug\Queue.exe.config
+C:\Users\aadik\Desktop\Visualization\Queue\bin\Debug\Queue.exe
+C:\Users\aadik\Desktop\Visualization\Queue\bin\Debug\Queue.pdb
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.Properties.Resources.resources
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.exe
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.pdb
+C:\Users\aadik\Desktop\Visualization\Queue\obj\Debug\Queue.Queue.resources
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\bin\Debug\Queue.exe.config
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\bin\Debug\Queue.exe
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\bin\Debug\Queue.pdb
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.csprojAssemblyReference.cache
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.Queue.resources
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.Properties.Resources.resources
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.exe
+D:\Aadi Khan\Programming - Computing\C#\Semester Project\Visualization\Queue\obj\Debug\Queue.pdb
